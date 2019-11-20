@@ -1,5 +1,5 @@
 # gotenberg.client for Java
-This is a Java client library for the marvellous [Gotenberg Service](https://github.com/thecodingmachine/gotenberg).
+This is a Java client library for the marvellous [Gotenberg Service](https://github.com/thecodingmachine/gotenberg) Version 5.
 
 ## Quickstart
 Start your Instance of Gotenberg like this:
